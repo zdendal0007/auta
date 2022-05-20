@@ -1,7 +1,3 @@
-QBShared = QBShared or {}
-QBShared.VehicleHashes = {}
-
-QBShared.Vehicles = {
 	--- Compacts
 	['asbo'] = {
 		['name'] = 'Asbo',
